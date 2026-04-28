@@ -1,0 +1,29 @@
+Script for Final Slides
+
+
+
+Best Features:
+
+Feature #1
+Today, “gymfluencers” and health and fitness are a big part of social media culture. 
+However, one of the biggest issues is that people struggle to follow widespread workouts 
+plans and splits. Everyone reacts to the same health plan differently, and there is no
+ one-size-fits-all solutions for everyone's fitness goals.
+
+The main goal of our app is to create a tailored and comprehensive fitness plan 
+for the user. It begins with setting an initial fitness goal, whether that is gaining
+ muscle, losing weight, or any kind of fitness endeavor. Using machine learning algorithms 
+ that iterate and learn the users habits and preferences, the app delivers a user-specific 
+ regimen that allows the user to achieve their goals in the most effective way. 
+
+feature #2
+The system features a comprehensive system for generating tailored workout plans for the user. 
+First it begins with an initial workout plan based on the context the user gives (fitness goal, 
+injuries, preferences, etc). Then....
+
+The user receives the workout plan
+The user logs what they actually did, what they did and did not find useful
+The Machine Learning algorithm reads this information and iterates on it for the next workout plan
+Then the steps are repeated every week, generating a unique and custom workout 
+
+feature #3
