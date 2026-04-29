@@ -65,8 +65,10 @@ UI Diagrams
 
 The UI diagram was a little bit difficult to create due to it being the first time we drafted what our application would look like. It lacked flow and consistency when first mocking up designs as well as stale and bland in some parts. It took us a while to finally visualize what a user might want when they first open up the tracker. Using inspiration from other health trackers made it easier to see how important information should be displayed. We also tried to simplify features in order to get the point across without overwhelming the designs and limited space
 
-Summary
+Lessons Learnt:
 To summarize what we learned and what made the project successful. One major lesson was the value of designing the system before its implementation. By creating the layout and planning, which are requirements, diagrams, database plans, and UI prototypes first, we had a much better idea of how to make this app.
 Next we learned how AI can simplify complicated mechanics in such projects. Instead of making users personally planning meals or workouts the app can use their input to provide useful recommendations instead.
 We also understood the value of consistency. The requirements, design, and storage all need to match so the system feels connected and organized. Thus, user-entered data must be validated before saving it. Such are health data, goals, preferences, and login information.
+
+Secrets for success:
 To make this app successful, we focused on user-friendly design, personalized recommendations, helpful documentation, both for the user and developer, and preventing common errors like empty prompts, missing profiles, invalid health values, and failed logins.
