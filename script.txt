@@ -44,7 +44,12 @@ Functional Requirements
 Our requirements started off as vague and overlapped user features as well as also focusing on back end calls, such as “The system uses reliable API calls to the database”
 In order to fix these issues we broke down our requirements into single features, focused more on what the user sees and how they interact with the application as well as rewording requirements.
 
-Matching ER and Database Diagrams 
+Making sure that our UML, ER, and Database diagrams matched:
+Problem: We had seperate teams working on the three different types of diagrams. This meant that it was harder 
+to have a form of consistency when it came to attributes, relationships, and entites. Our app also has many parts
+to it that are important. Many parts meant that the models would be larger and have more relationships. Making sure that
+each model had the same relationship was important and hard for us because it the relationships define our app, and each 
+person may have differing interpatations to it. This basically all boils down to CONSISTENCY
 
 
 UI Diagrams
