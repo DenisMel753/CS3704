@@ -27,7 +27,7 @@ The Machine Learning algorithm reads this information and iterates on it for the
 Then the steps are repeated every week, generating a unique and custom workout 
 
 feature #3
-Additionally, our system compares the user's dietary history against their goal profile and calculates what nutrients they are still missing. Every candidate meal is then scored across three factors: how much it closes the gap, how well it fits their long-term goals, and whether it includes their preferred foods. Before anything is shown, every meal is filtered against the user's allergy list, and if it contains even one flagged ingredient, it is removed entirely. If the user is not happy with the suggestions, they can submit feedback, and the system regenerates the plan, then runs another safety check before saving it. The result is a personalized, ranked, safety-validated meal plan that actually adapts to the user.
+Additionally, our system compares the user's dietary history against their goals and calculates what nutrients they are still missing. Every candidate meal is then scored across three factors: how much it closes the gap, how well it fits their long-term goals, and whether it includes their preferred foods (based on their dietary history). Before anything is shown, every meal is also filtered against the user's allergy list. If the user is not happy with the suggestions our system provides, they can submit feedback to our AI, which will regenerate the plan and run another safety check before saving it. As a result, the user will get a personalized, ranked, safety-validated meal plan that continuously adapts. 
 
 
 
