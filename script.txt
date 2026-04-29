@@ -1,6 +1,10 @@
 Script for Final Slides
 
+Introduction:
 
+Our project is a Health and Food Tracker designed to make daily health planning easier and more personalized. The main problem we are solving is that planning healthy routines can become repetitive and boring. A lot of people have goals, restrictions, and preferences, but they still have to decide every day what to eat and how to train.
+Our system helps by storing important user information like age, weight, dietary preferences, workout preferences, restrictions, and personal goals. Then, instead of making the user start from scratch every day, the app uses that saved information to generate personalized meal and workout recommendations.
+The basic app flow is simple. A user signs up or logs in, completes onboarding by entering their health information and preferences, requests recommendations, provides feedback so future results can improve, and then tracks progress or views past plans.
 
 Best Features:
 
