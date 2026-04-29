@@ -27,3 +27,19 @@ The Machine Learning algorithm reads this information and iterates on it for the
 Then the steps are repeated every week, generating a unique and custom workout 
 
 feature #3
+
+
+
+
+
+Major Challenges and Solutions
+
+Some of our key challenges and solutions were
+Identifying functional requirements and use cases that would be useful for the project
+Making sure that our UML diagrams and Database diagrams matched
+Identifying what we wanted the app to look like and how we wanted users to interact with the app (minimalism vs intricate ui)
+
+
+Functional Requirements
+Our requirements started off as vague and overlapped user features as well as also focusing on back end calls, such as “The system uses reliable API calls to the database”
+In order to fix these issues we broke down our requirements into single features, focused more on what the user sees and how they interact with the application as well as rewording requirements.
